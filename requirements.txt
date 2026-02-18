@@ -1,3 +1,5 @@
-pandas==2.0.3
-streamlit==1.28.1
-mlxtend==0.23.0
+streamlit
+pandas
+mlxtend
+numpy
+
